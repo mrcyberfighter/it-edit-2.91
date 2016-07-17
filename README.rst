@@ -153,8 +153,6 @@ Edition
 
         + **Redo** use the contextual menu or the shortcut: **Ctrl + Maj + Z**.
 
-          :note: The menu items from *Undo* and *Redo* does not work well but the shortcuts and and the contextual menu yes.
-
         + **Cut** use the contextual menu, the menu item, the button or the shortcut: **Ctrl + X**.
 
         + **Copy** use the contextual menu, the menu item, the button or the shortcut: **Ctrl + C**.
